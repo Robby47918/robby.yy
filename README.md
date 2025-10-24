@@ -1,5 +1,4 @@
- alt="Roberta Smith" width="100" style="border-radius: 50%;"/>
-  <h1>Roberta Smith</h1>
+<h1>Roberta Smith</h1>
   <p><em>Software Engineer | Graphic Designer | Cybersecurity Enthusiast</em></p>
   <p>👩‍💻 Passionate about merging technology and creativity to solve real-world problems.</p>
 </div>
@@ -7,7 +6,7 @@
 ---
 
 ### **About Me**
-<p>Hi there! I’m <strong>[Roberta Smith]</strong>, a self learning Software Developer with a passion for bringing technology and creativity together. My journey started with a desire to solve problems and make a difference in the world. I’m particularly inspired by the potential of technology to empower people of all ages, and I’m dedicated to building apps that make a positive impact while ensuring data security.</p>
+<p>Hi there! I’m <strong>Roberta Smith</strong>, a self learning Software Developer with a passion for bringing technology and creativity together. My journey started with a desire to solve problems and make a difference in the world. I’m particularly inspired by the potential of technology to empower people of all ages, and I’m dedicated to building apps that make a positive impact while ensuring data security.</p>
 
 <p>My goal is to become one of the leading female Software Developers in the industry, and I’m working hard every day to improve my skills in frontend development, graphic design, and cybersecurity. I believe in continuous learning, collaboration, and innovation.</p>
 
@@ -29,19 +28,7 @@
     <li>Branding and Visual Identity</li>
     <li>Video Editing and Motion Graphics</li>
   </ul>
-</div>
-
----
-
-### **Projects**
-<div align="left">
-  <h3>🚀 Featured Projects</h3>
-  <ul>
-    <li><a href="#">[Project Name]</a> - A brief description of the project and its impact.</li>
-    <li><a href="#">[Project Name]</a> - A brief description of the project and its impact.</li>
-    <li><a href="#">[Project Name]</a> - A brief description of the project and its impact.</li>
-  </ul>
-</div>
+</h3>
 
 ---
 
