@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Roberta Smith" width="100" style="border-radius: 50%;"/>
+ alt="Roberta Smith" width="100" style="border-radius: 50%;"/>
   <h1>Roberta Smith</h1>
   <p><em>Software Engineer | Graphic Designer | Cybersecurity Enthusiast</em></p>
   <p>👩‍💻 Passionate about merging technology and creativity to solve real-world problems.</p>
